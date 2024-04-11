@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY PSYCHO_MD
-WHATSAPP - 94775341543
+WHATSAPP - 94781306128
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
@@ -22,13 +22,13 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " ,
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply ,
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , 
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , 
 global.INBOX_BLOCK = false
 //👇 Auto react  ,
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )  
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , 
@@ -36,8 +36,8 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false )  
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
@@ -47,7 +47,7 @@ global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = false
+global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send 
@@ -72,19 +72,19 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94775341543'] 
+global.owner = ['94781306128'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙿𝙾𝚆𝙴𝚁𝙳   𝙱𝚈  𝙿𝚂𝚈𝙲𝙷𝙾_𝙱𝙰𝙱𝙰   ˣˣˣ'
+global.cap = '© 𝙿𝙾𝚆𝙴𝚁𝙳   𝙱𝚈  DINU_OFC   ˣˣˣ'
 //👇 Your Bot Name
 global.botnma =  '𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫' 
 //👇 Your name
-global.ownernma =  '𝕄ℝ.  ᴩꜱʏᴄʜᴏ ˣˣˣ' 
+global.ownernma =  '𝕄ℝ.  DINUxRM ˣˣˣ' 
 //👇 Sticker Author Name
 global.packname =  '𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK  BY 𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫!!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '☃️'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫```' 
 //👇 Song Uplode massage 
